@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landing-ecosolution/static/css/main.21199dc1.css",
+    "main.js": "/landing-ecosolution/static/js/main.a5f5221a.js",
+    "static/js/415.21975c83.chunk.js": "/landing-ecosolution/static/js/415.21975c83.chunk.js",
+    "index.html": "/landing-ecosolution/index.html",
+    "main.21199dc1.css.map": "/landing-ecosolution/static/css/main.21199dc1.css.map",
+    "main.a5f5221a.js.map": "/landing-ecosolution/static/js/main.a5f5221a.js.map",
+    "415.21975c83.chunk.js.map": "/landing-ecosolution/static/js/415.21975c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21199dc1.css",
+    "static/js/main.a5f5221a.js"
+  ]
+}

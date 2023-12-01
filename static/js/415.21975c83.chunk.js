@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklanding_ecosolution=self.webpackChunklanding_ecosolution||[]).push([[415],{415:(e,n,t)=>{t.r(n),t.d(n,{default:()=>s});var l=t(184);const s=()=>(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"space-between",marginBottom:"100px"},children:(0,l.jsx)("h1",{children:"Welcome to the APP!"})})})}}]);
+//# sourceMappingURL=415.21975c83.chunk.js.map
